@@ -6,7 +6,7 @@ public class Conditions {
         //Тернарный оператор:
 
         int a = 11;
-        int b = 2;
+        int b = 22;
         int c = 0;
 
         c = (a > b) ? a : b;
